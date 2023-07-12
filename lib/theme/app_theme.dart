@@ -19,5 +19,5 @@ class AppTheme {
   static VisualDensitys visualDensitys = VisualDensitys();
   static ConstantsDecoration constantsDecoration = ConstantsDecoration();
   static AppDecorations decorations = AppDecorations();
-  static GPShadows shadows = GPShadows();
+  static MPYShadows shadows = MPYShadows();
 }

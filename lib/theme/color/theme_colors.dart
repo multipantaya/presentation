@@ -7,6 +7,4 @@ class ThemeColors {
   final Color primaryColor = const Color(0xFF2889F0);
   final Color grey = const Color(0xFF9C9FA6); 
   final Color transparent = const Color(0x00FFFFFF);
-  
-  
 }
