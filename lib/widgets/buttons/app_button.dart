@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:presentation/constants/decoration.dart';
 import 'package:presentation/presentation.dart';
 
 class AppButton extends StatelessWidget {
@@ -28,7 +27,7 @@ class AppButton extends StatelessWidget {
         children: [
           Expanded(
             child: SizedBox(
-              height: ConstantsDecoration().heightButton,
+              height: 30,
               child: ElevatedButton(
                 onPressed: onPressed == null
                     ? null
